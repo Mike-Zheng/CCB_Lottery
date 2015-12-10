@@ -1,0 +1,9 @@
+c:\users\mike\documents\visual studio 2013\Projects\lotterySarah\lotterySarah\bin\Debug\lotterySarah.exe.config
+c:\users\mike\documents\visual studio 2013\Projects\lotterySarah\lotterySarah\bin\Debug\lotterySarah.exe
+c:\users\mike\documents\visual studio 2013\Projects\lotterySarah\lotterySarah\bin\Debug\lotterySarah.pdb
+c:\users\mike\documents\visual studio 2013\Projects\lotterySarah\lotterySarah\obj\Debug\lotterySarah.csprojResolveAssemblyReference.cache
+c:\users\mike\documents\visual studio 2013\Projects\lotterySarah\lotterySarah\obj\Debug\lotterySarah.Form1.resources
+c:\users\mike\documents\visual studio 2013\Projects\lotterySarah\lotterySarah\obj\Debug\lotterySarah.Properties.Resources.resources
+c:\users\mike\documents\visual studio 2013\Projects\lotterySarah\lotterySarah\obj\Debug\lotterySarah.csproj.GenerateResource.Cache
+c:\users\mike\documents\visual studio 2013\Projects\lotterySarah\lotterySarah\obj\Debug\lotterySarah.exe
+c:\users\mike\documents\visual studio 2013\Projects\lotterySarah\lotterySarah\obj\Debug\lotterySarah.pdb
